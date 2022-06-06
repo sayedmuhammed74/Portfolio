@@ -1,0 +1,12 @@
+{
+    "members": [
+        {
+            "name": "Sayed Mohamed",
+            "poition": "Leader",
+            "about": "I'm a front end now but I keep learning to become a Full Stack Developer. I'm ready to learn",
+            "gmail": "sayedmohamed123.sm74@gmail.com",
+            "tele": "+20-0110212-8186",
+            "src": "./../props/img/sayed.jpg"
+        }
+    ]
+}
